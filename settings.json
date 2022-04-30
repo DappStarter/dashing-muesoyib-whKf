@@ -1,0 +1,21 @@
+{
+    "name": "EarnCrypto",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/nft/core-custom_nft": true,
+        "/category/nft/core-custom_nft/template": "collectible",
+        "/category/collection/core-entity": true,
+        "/category/asset_value_tracking/core-token/name": "EarnCrypto",
+        "/category/asset_value_tracking/core-token/symbol": "Earn",
+        "/category/asset_value_tracking/core-token/decimals": "7",
+        "/category/asset_value_tracking/core-token/supply": "100000000000",
+        "/category/file_storage/core-ipfs": true,
+        "/category/file_storage/core-ipfs/mode": "multiple"
+    }
+}
